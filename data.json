@@ -1,0 +1,44 @@
+{
+    "12841929": {
+        "media_path": "", 
+        "music": true
+    }, 
+    "077774601221": {
+        "media_path": "tmp:///data/Data/Music/Gunnar/Kate_Bush-The_Kick_Inside", 
+        "music": true
+    }, 
+    "673799210525": {
+        "media_path": "tmp:///data/Data/Music/Gunnar/Indie/Erlend_Oye-Legao", 
+        "music": true
+    }, 
+    "0000000000000": {
+        "music": true, 
+        "media_path": "http://opml.radiotime.com/Tune.ashx?id=s142194&formats=aac,ogg,mp3,wma,wmvoice&partnerId=16&serial=2f3a0aac3be6014649531014ea0ae09d"
+    }, 
+    "731453048027": {
+        "media_path": "tmp:///data/Data/Music/Katja/Michael_Jackson-Anthology", 
+        "music": true
+    }, 
+    "042284600521": {
+        "media_path": "tmp:///data/Data/Music/Gunnar/Indie/Nick_Drake-Bryter_layter", 
+        "music": true
+    }, 
+    "9007970009294": {
+        "music": true, 
+        "media_path": "tmp:///data/Data/Music/Nepi/Wir_Kinder_vom_Kleistpark-Wir_Kinder_vom_Kleistpark_tanzen"
+    }, 
+    "4260035792554": {
+        "media_path": "tmp:///data/Data/Music/Nepi/Wir_Kinder_vom_Kleistpark-Kleistpark", 
+        "music": true
+    }, 
+    "92568396": {
+        "music": true, 
+        "media_path": ""
+    }, 
+    "4260053479031": {
+        "music": true
+    }, 
+    "3789169552": {
+        "media_path": "http://opml.radiotime.com/Tune.ashx?id=s142194&formats=aac,ogg,mp3,wma,wmvoice&partnerId=16&serial=2f3a0aac3be6014649531014ea0ae09d"
+    }
+}
